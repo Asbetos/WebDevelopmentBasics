@@ -1,4 +1,7 @@
-@charset='utf-8';
+/*css script for the Slack.html file*/
+
+
+/*@charset='utf-8';*/
 header::after{
 	content: "";
 	display: table;
